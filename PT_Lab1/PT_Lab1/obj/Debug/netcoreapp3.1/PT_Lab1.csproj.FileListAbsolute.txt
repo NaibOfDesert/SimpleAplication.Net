@@ -1,0 +1,13 @@
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\bin\Debug\netcoreapp3.1\PT_Lab1.exe
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\bin\Debug\netcoreapp3.1\PT_Lab1.deps.json
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\bin\Debug\netcoreapp3.1\PT_Lab1.runtimeconfig.json
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\bin\Debug\netcoreapp3.1\PT_Lab1.runtimeconfig.dev.json
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\bin\Debug\netcoreapp3.1\PT_Lab1.dll
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\bin\Debug\netcoreapp3.1\PT_Lab1.pdb
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\obj\Debug\netcoreapp3.1\PT_Lab1.csprojAssemblyReference.cache
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\obj\Debug\netcoreapp3.1\PT_Lab1.AssemblyInfoInputs.cache
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\obj\Debug\netcoreapp3.1\PT_Lab1.AssemblyInfo.cs
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\obj\Debug\netcoreapp3.1\PT_Lab1.csproj.CoreCompileInputs.cache
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\obj\Debug\netcoreapp3.1\PT_Lab1.dll
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\obj\Debug\netcoreapp3.1\PT_Lab1.pdb
+C:\studia\PT\PT_lab1\PT_Lab1\PT_Lab1\obj\Debug\netcoreapp3.1\PT_Lab1.genruntimeconfig.cache
